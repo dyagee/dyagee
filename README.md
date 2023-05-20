@@ -25,6 +25,11 @@
 
 **Database:** MongoDB, SQL 
 
+# 🧩 Frameworks
++ Pywebio 
++ Flask
++ FastAPI
++ PyScript
 
 
 # 📺 Latest YouTube Videos
