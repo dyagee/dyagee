@@ -19,7 +19,7 @@
 
 # ⚙ Tech Stack
 
-**Client:** HTML5, CSS, BootstapCSS, JavaScript
+**Client:** HTML5, CSS, BootstrapCSS, JavaScript
 
 **Server:** Django, Flask
 
