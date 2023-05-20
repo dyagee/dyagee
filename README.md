@@ -1,8 +1,10 @@
 # Hi there, I'm Agee 👋
 <br>
-<img    src="https://github-readme-stats.vercel.app/api?username=dyagee&show_icons=true&hide=contribs,prs)" />
+<section>
+<img   style ="display:inline;"  src="https://github-readme-stats.vercel.app/api?username=dyagee&show_icons=true&hide=contribs,prs)" />
 
-<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyagee&layout=compact&hide=procfile"/> 
+<img  style ="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyagee&layout=compact&hide=procfile"/> 
+</section>
 
 
 # 🛠 Skills
