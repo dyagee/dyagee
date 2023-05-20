@@ -1,7 +1,10 @@
 # Hi there, I'm Agee 👋
+<br>
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=dyagee&show_icons=true&hide=contribs,prs)" /> 
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyagee&layout=compact&hide=procfile" /> 
+<br>
+<br>
 
 
 
@@ -12,7 +15,9 @@
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <br /> 
+<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<br> 
+<br>
 
 
 
