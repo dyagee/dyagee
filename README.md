@@ -19,11 +19,11 @@
 
 # ⚙ Tech Stack
 
-**Client:** HTML5, CSS, BootstrapCSS, JavaScript
+**Front-end:** HTML5, CSS, BootstrapCSS, JavaScript
 
-**Server:** Django, Flask
+**Back-end:** Django, Flask, FastAPI
 
-**Database:** MongoDB, SQL 
+**Database:** MongoDB, MySQL, Postgresql 
 
 # 🧩 Frameworks
 + Pywebio 
