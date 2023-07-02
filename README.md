@@ -33,7 +33,9 @@
 
 
 # 📺 Latest YouTube Videos
-<!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FP_OQK2d2sA"><img width="140px" src="http://img.youtube.com/vi/FP_OQK2d2sA/maxresdefault.jpg"></a></td>
+<!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sVV1A74GjKY"><img width="140px" src="http://img.youtube.com/vi/sVV1A74GjKY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sVV1A74GjKY">How To Create Python Virtual Environment: Easy Set Up Steps</a><br/>Jun 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FP_OQK2d2sA"><img width="140px" src="http://img.youtube.com/vi/FP_OQK2d2sA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FP_OQK2d2sA">Deployment Of PyWebIO Applications To Cloud Using Flask In Vercel</a><br/>Jun 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HyOvaZbOtGI"><img width="140px" src="http://img.youtube.com/vi/HyOvaZbOtGI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HyOvaZbOtGI">Pywebio: How to Deploy your Web App using  Flask Support.</a><br/>Jun 1, 2023</td></tr></table>
@@ -41,8 +43,6 @@
 <td><a href="https://www.youtube.com/watch?v=q1LscWsCmHI">Pywebio: How to Integrate MongoDB into your Web App.</a><br/>May 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vq6yPUYJ-6A"><img width="140px" src="http://img.youtube.com/vi/vq6yPUYJ-6A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vq6yPUYJ-6A">How to connect with MongoDB using Python - Beginners.</a><br/>May 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jFDGQ9cQKr8"><img width="140px" src="http://img.youtube.com/vi/jFDGQ9cQKr8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jFDGQ9cQKr8">Beginner introduction to MongDB and  PyMongo</a><br/>May 11, 2023</td></tr></table>
 <!-- YT-VIDEOS:END -->
 
 
