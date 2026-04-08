@@ -3,7 +3,7 @@ on:
   schedule:
     # Runs every hour, on the hour
     #- cron: "0 * * * *"
-    # Runs every hour, on the hour
+    # Runs every month
     - cron: "0 0 1 * *"
   workflow_dispatch:
 permissions:
